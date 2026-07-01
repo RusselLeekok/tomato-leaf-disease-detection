@@ -175,41 +175,6 @@ backend/树莓派客户端.py
 
 注意：当前后端 `app.py` 中的视频接收逻辑监听 `8000`，并按 4 字节 big-endian 读取图片长度；而示例树莓派客户端中使用的是 `8002`，并发送 16 字节文本长度。真实联调前需要统一端口和传输协议，否则后端无法正确接收视频帧。
 
-## 常见问题
-
-### 1. 后端启动时报 `ModuleNotFoundError: No module named 'tensorflow'`
-
-`requirements.txt` 中目前没有写入 TensorFlow，需要单独安装：
-
-```powershell
-python -m pip install tensorflow
-```
-
-### 2. 前端页面能打开，但没有实时视频
-
-需要有摄像头客户端连接到后端 socket 服务并持续发送视频帧。没有视频帧时，后端无法生成实时视频流。
-
-### 3. 点击检测提示没有可用的视频帧
-
-说明后端还没有接收到摄像头画面。请检查摄像头客户端是否启动、IP 地址是否正确、端口和传输协议是否与后端一致。
-
-### 4. PowerShell 无法运行 npm
-
-如果出现 `npm.ps1 cannot be loaded`，可以改用：
-
-```powershell
-npm.cmd start
-```
-
-或：
-
-```powershell
-npm.cmd install
-```
-
-### 5. 前端构建有 warning
-
-当前前端可以正常构建，但 `Settings.js` 中存在一些未使用变量的 ESLint warning，不影响运行。
 
 ## 生产构建
 
