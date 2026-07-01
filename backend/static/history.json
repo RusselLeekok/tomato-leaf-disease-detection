@@ -1,0 +1,288 @@
+[
+    {
+        "id": "1715859550",
+        "timestamp": "2025-05-16 21:59:10",
+        "result": "Leaf Mold",
+        "confidence": 0.92,
+        "image_path": "/images/detection_1715859550.jpg"
+    },
+    {
+        "id": "1715859612",
+        "timestamp": "2025-05-16 22:00:12",
+        "result": "Early Blight",
+        "confidence": 0.87,
+        "image_path": "/images/detection_1715859612.jpg"
+    },
+    {
+        "id": "1715859685",
+        "timestamp": "2025-05-16 22:01:25",
+        "result": "Septoria Leaf Spot",
+        "confidence": 0.78,
+        "image_path": "/images/detection_1715859685.jpg"
+    },
+    {
+        "id": "1715859744",
+        "timestamp": "2025-05-16 22:02:24",
+        "result": "Healthy",
+        "confidence": 0.98,
+        "image_path": "/images/detection_1715859744.jpg"
+    },
+    {
+        "id": "1715859801",
+        "timestamp": "2025-05-16 22:03:21",
+        "result": "Late Blight",
+        "confidence": 0.81,
+        "image_path": "/images/detection_1715859801.jpg"
+    },
+    {
+        "id": "1715859866",
+        "timestamp": "2025-05-16 22:04:26",
+        "result": "Target Spot",
+        "confidence": 0.75,
+        "image_path": "/images/detection_1715859866.jpg"
+    },
+    {
+        "id": "1715859922",
+        "timestamp": "2025-05-16 22:05:22",
+        "result": "Yellow Leaf Curl Virus",
+        "confidence": 0.94,
+        "image_url": "/static/detection_1715859922.jpg"
+    },
+    {
+        "id": "1715859988",
+        "timestamp": "2025-05-16 22:06:28",
+        "result": "Bacterial Spot",
+        "confidence": 0.86,
+        "image_url": "/static/detection_1715859988.jpg"
+    },
+    {
+        "id": "1715860045",
+        "timestamp": "2025-05-16 22:07:25",
+        "result": "Spider Mites",
+        "confidence": 0.79,
+        "image_url": "/static/detection_1715860045.jpg"
+    },
+    {
+        "id": "1715860102",
+        "timestamp": "2025-05-16 22:08:22",
+        "result": "Mosaic Virus",
+        "confidence": 0.88,
+        "image_url": "/static/detection_1715860102.jpg"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 1.0,
+        "image_url": "/static/captured_2025-05-19_21-41-04.jpg",
+        "timestamp": "2025-05-19_21-41-04"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 0.9994780421257019,
+        "image_url": "/static/captured_2025-05-19_21-44-07.jpg",
+        "timestamp": "2025-05-19_21-44-07"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 97,
+        "image_url": "/static/captured_2025-05-19_21-49-50.jpg",
+        "timestamp": "2025-05-19_21-49-50"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 0,
+        "image_url": "/static/captured_2025-05-19_21-54-50.jpg",
+        "timestamp": "2025-05-19_21-54-50"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 97,
+        "image_url": "/static/captured_2025-05-19_21-59-52.jpg",
+        "timestamp": "2025-05-19_21-59-52"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 57,
+        "image_url": "/static/captured_2025-05-19_22-14-52.jpg",
+        "timestamp": "2025-05-19_22-14-52"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 60,
+        "image_url": "/static/captured_2025-05-19_22-17-10.jpg",
+        "timestamp": "2025-05-19_22-17-10"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-24-16.jpg",
+        "timestamp": "2025-05-19_22-24-16"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 49,
+        "image_url": "/static/captured_2025-05-19_22-24-56.jpg",
+        "timestamp": "2025-05-19_22-24-56"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 93,
+        "image_url": "/static/captured_2025-05-19_22-25-49.jpg",
+        "timestamp": "2025-05-19_22-25-49"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-33-06.jpg",
+        "timestamp": "2025-05-19_22-33-06"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-33-14.jpg",
+        "timestamp": "2025-05-19_22-33-14"
+    },
+    {
+        "result": "Tomato_Spider_Mites",
+        "confidence": 81,
+        "image_url": "/static/captured_2025-05-19_22-39-23.jpg",
+        "timestamp": "2025-05-19_22-39-23"
+    },
+    {
+        "result": "Tomato_Yellow_Leaf_Curl_Virus",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-40-52.jpg",
+        "timestamp": "2025-05-19_22-40-52"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 85,
+        "image_url": "/static/captured_2025-05-19_22-41-38.jpg",
+        "timestamp": "2025-05-19_22-41-38"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 95,
+        "image_url": "/static/captured_2025-05-19_22-42-08.jpg",
+        "timestamp": "2025-05-19_22-42-08"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 94,
+        "image_url": "/static/captured_2025-05-19_22-42-45.jpg",
+        "timestamp": "2025-05-19_22-42-45"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 98,
+        "image_url": "/static/captured_2025-05-19_22-43-19.jpg",
+        "timestamp": "2025-05-19_22-43-19"
+    },
+    {
+        "result": "Tomato_Leaf_Mold",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-44-05.jpg",
+        "timestamp": "2025-05-19_22-44-05"
+    },
+    {
+        "result": "Tomato_Leaf_Mold",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-44-24.jpg",
+        "timestamp": "2025-05-19_22-44-24"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-44-50.jpg",
+        "timestamp": "2025-05-19_22-44-50"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-45-08.jpg",
+        "timestamp": "2025-05-19_22-45-08"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-45-23.jpg",
+        "timestamp": "2025-05-19_22-45-23"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 93,
+        "image_url": "/static/captured_2025-05-19_22-45-48.jpg",
+        "timestamp": "2025-05-19_22-45-48"
+    },
+    {
+        "result": "Tomato_Early_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-46-39.jpg",
+        "timestamp": "2025-05-19_22-46-39"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 91,
+        "image_url": "/static/captured_2025-05-19_22-47-04.jpg",
+        "timestamp": "2025-05-19_22-47-04"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-47-41.jpg",
+        "timestamp": "2025-05-19_22-47-41"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 96,
+        "image_url": "/static/captured_2025-05-19_22-47-55.jpg",
+        "timestamp": "2025-05-19_22-47-55"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-48-51.jpg",
+        "timestamp": "2025-05-19_22-48-51"
+    },
+    {
+        "result": "Tomato_Late_Blight",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-19_22-49-06.jpg",
+        "timestamp": "2025-05-19_22-49-06"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 95,
+        "image_url": "/static/captured_2025-05-19_22-49-24.jpg",
+        "timestamp": "2025-05-19_22-49-24"
+    },
+    {
+        "result": "Tomato_Yellow_Leaf_Curl_Virus",
+        "confidence": 85,
+        "image_url": "/static/captured_2025-05-19_22-49-42.jpg",
+        "timestamp": "2025-05-19_22-49-42"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 85,
+        "image_url": "/static/captured_2025-05-20_14-35-33.jpg",
+        "timestamp": "2025-05-20_14-35-33"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-20_14-36-58.jpg",
+        "timestamp": "2025-05-20_14-36-58"
+    },
+    {
+        "result": "Tomato_Septoria_Leaf_Spot",
+        "confidence": 99,
+        "image_url": "/static/captured_2025-05-20_14-37-23.jpg",
+        "timestamp": "2025-05-20_14-37-23"
+    },
+    {
+        "result": "Tomato_Early_Blight",
+        "confidence": 94,
+        "image_url": "/static/captured_2025-05-20_14-38-53.jpg",
+        "timestamp": "2025-05-20_14-38-53"
+    }
+]
